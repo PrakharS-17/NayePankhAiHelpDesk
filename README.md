@@ -96,6 +96,7 @@ The mobile navbar was showing incorrectly because of browser width and responsiv
 
 ## Project Structure
 
+```text
 src/
 ├── components/
 ├── pages/
@@ -103,6 +104,7 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+```
 
 ## Installation
 

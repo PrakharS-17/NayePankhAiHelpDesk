@@ -6,9 +6,13 @@ NayePankh AI Help Desk is a modern NGO support platform built using React, Vite,
 
 The platform helps users explore volunteering opportunities, internships, donations, and interact with an AI-powered support assistant through a clean and responsive interface.
 
+---
+
 ## Live Demo
 
 https://naye-pankh-ai-help-desk.vercel.app/
+
+---
 
 ## Inspiration Behind the Project
 
@@ -17,6 +21,8 @@ The idea for this project came from observing how many NGOs struggle to provide 
 I wanted to create a platform that feels modern, trustworthy, and easy to use while also solving real communication problems for NGOs. The AI Help Desk concept was introduced to make the experience more interactive and accessible for users who may have questions about volunteering, internships, donations, or contacting the organization.
 
 The goal was to combine social impact with modern frontend technology and create something that looks and feels like a real-world startup or NGO product rather than a basic college assignment.
+
+---
 
 ## How This Project Helps
 
@@ -30,6 +36,8 @@ This platform can help NGOs by:
 * Creating a more professional online presence for organizations
 
 The AI Help Desk improves accessibility by allowing users to quickly ask questions instead of searching manually through different sections of the website.
+
+---
 
 ## Features
 
@@ -46,6 +54,8 @@ The AI Help Desk improves accessibility by allowing users to quickly ask questio
 * Reusable React components
 * Mobile responsive navbar
 
+---
+
 ## Tech Stack
 
 * React
@@ -54,6 +64,8 @@ The AI Help Desk improves accessibility by allowing users to quickly ask questio
 * React Router DOM
 * Gemini API
 * React Hot Toast
+
+---
 
 ## What I Learned
 
@@ -70,6 +82,8 @@ Through this project, I learned:
 * Reusable component design
 * Git and GitHub workflow
 * Deployment using Vercel
+
+---
 
 ## Problems I Faced and Solved
 
@@ -94,6 +108,8 @@ Dark mode initially did not work properly because of Tailwind CSS configuration 
 
 The mobile navbar was showing incorrectly because of browser width and responsive Tailwind classes. I learned how responsive breakpoints work in Tailwind CSS.
 
+---
+
 ## Project Structure
 
 ```text
@@ -106,12 +122,17 @@ src/
 └── index.css
 ```
 
+---
+
 ## Installation
 
+```bash
 npm install
 npm run dev
+```
+
+---
 
 ## Author
-Prakhar Srivastava
 
 Prakhar Srivastava
